@@ -1,0 +1,4 @@
+node_modules/
+.vscode/
+Backend/node_modules/
+Backend/users.json
